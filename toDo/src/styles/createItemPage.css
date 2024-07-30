@@ -1,0 +1,15 @@
+.extra_container {
+    position: relative;
+}
+.extra_plus_button {
+    color: #535bf2;
+    position: absolute;
+    left: 1rem;
+    font-size: 1.3rem;
+}
+.extra_tasks_container {
+    max-height: 20vh;
+    overflow: auto;
+    margin-top: 2rem;
+}
+
